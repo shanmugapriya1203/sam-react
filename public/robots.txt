@@ -1,3 +1,21 @@
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow:
+1.index.js
+Bootstrap (start) the react
+
+2.React.strictmode
+Error checking
+
+
+3.In react we can use multiple times call By typing <App>for n times 
+or
+4.Function to be considered as components
+  * function should start with a capital letter
+  *It should at least one jsx element
+
+4.props - arguments
+
+5.<> is used for wrapping documents 
+1.Avoiding extra element
+
+6.Learn aspect ratio property in css
+
+
